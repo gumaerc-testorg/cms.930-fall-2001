@@ -1,16 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Biography](video_galleries/video-lectures/biography#nb)'
+related_resources_text: '[Biography](/courses/cms-930-media-education-and-the-marketplace-fall-2001/video_galleries/video-lectures/biography#nb)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Nolan Bowie
 uid: 5d1d8f24-6ac0-3073-9db9-5c3d1714ff4a
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 **Speaker:** Nolan Bowie
+
+
+

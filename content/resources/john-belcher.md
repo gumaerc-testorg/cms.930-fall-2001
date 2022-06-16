@@ -1,16 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Biography](video_galleries/video-lectures/biography#jb)'
+related_resources_text: '[Biography](/courses/cms-930-media-education-and-the-marketplace-fall-2001/video_galleries/video-lectures/biography#jb)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: John Belcher
 uid: aeec3a80-b177-84a1-4d39-fab1d69aa5e5
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 **Speaker:** John Belcher
+
+
+

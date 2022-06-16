@@ -1,16 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Biography](video_galleries/video-lectures/biography#bm)'
+related_resources_text: '[Biography](/courses/cms-930-media-education-and-the-marketplace-fall-2001/video_galleries/video-lectures/biography#bm)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Brenda Matthis
 uid: cb5f9fad-b408-d863-bc07-8e006da99412
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 **Speaker:** Brenda Matthis
+
+
+

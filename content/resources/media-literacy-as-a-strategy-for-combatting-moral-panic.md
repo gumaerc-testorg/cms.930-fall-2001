@@ -1,16 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Biography](video_galleries/video-lectures/biography#hj)'
+related_resources_text: '[Biography](/courses/cms-930-media-education-and-the-marketplace-fall-2001/video_galleries/video-lectures/biography#hj)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Media Literacy as a Strategy for Combatting Moral Panic
 uid: 586898c9-b120-bec8-7672-ad3424620bb2
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Media Literacy as a Strategy for Combatting Moral Panic
 
 **Speaker:** Henry Jenkins
+
+
+
