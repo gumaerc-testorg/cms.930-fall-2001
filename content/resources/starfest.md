@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 resourcetype: Image
 title: starfest.gif
 uid: 6f3f79d1-eae7-8269-f51d-6d3a549ac87b
 ---
 StarFestival CD Cover. (Courtesy of Prof. Shigeru Miyagwa.)
-

@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: StarFestival CD Cover.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 resourcetype: Image
 title: cms-930f01-th.jpg
 uid: e2811dae-3504-4400-bdc1-fc80ea6fe702
 ---
 New image Upload
-
