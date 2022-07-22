@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](/courses/cms-930-media-education-and-the-marketplace-fall-2001/video_galleries/video-lectures/biography#sl)'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Educational Uses of Technology
 uid: fb93da14-2351-2eb4-01b3-f9a93dd6ab50
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered:** Educational Uses of Technology
 
 **Speaker:** Steven Lerman
+

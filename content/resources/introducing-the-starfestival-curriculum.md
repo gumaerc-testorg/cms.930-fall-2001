@@ -1,8 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Reading List](/courses/cms-930-media-education-and-the-marketplace-fall-2001/pages/readings)\
+  \  \n[Biography](/courses/cms-930-media-education-and-the-marketplace-fall-2001/video_galleries/video-lectures/biography)"
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Introducing the StarFestival Curriculum
 uid: 4d11df8f-26b4-f6aa-ebe7-db84c947917a
 video_files:
@@ -17,3 +30,4 @@ video_metadata:
 **Topics covered:** Introducing the StarFestival curriculum
 
 **Speaker:** Shigeru Miyagawa
+

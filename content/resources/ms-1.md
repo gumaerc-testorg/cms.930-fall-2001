@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](/courses/cms-930-media-education-and-the-marketplace-fall-2001/video_galleries/video-lectures/biography#mr)'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Ms. Mary Rudder, Kindergarten, Harvard Kent School, Boston, USA
 uid: 58250932-de7d-ccae-0ae2-117a3dffcfa1
 video_files:
@@ -15,3 +27,4 @@ video_metadata:
 ---
 
 **Speaker:** Ms. Mary Rudder, Kindergarten, Harvard Kent School, Boston, USA
+
