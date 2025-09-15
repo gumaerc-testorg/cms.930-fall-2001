@@ -26,8 +26,10 @@
     "website": "cms-930-media-education-and-the-marketplace-fall-2001"
   },
   "course_title": "Media, Education, and the Marketplace",
-  "course_description": "How can we harness the emerging forms of interactive media to enhance the learning process? Professor Miyagawa and prominent guest speakers will explore a broad range of issues on new media and learning - technical, social, and business. Concrete examples of use of media will be presented as case studies. One major theme, though not the only one, is that today's youth, influenced by video games and other emerging interactive media forms, are acquiring a fundamentally different attitude towards media. Media is, for them, not something to be consumed, but also to be created. This has broad consequences for how we design media, how the young are taught in schools, and how mass media markets will need to adjust.\n",
+  "hide_download": false,
+  "course_description": "How can we harness the emerging forms of interactive media to enhance the learning process? Professor Miyagawa and prominent guest speakers will explore a broad range of issues on new media and learning - technical, social, and business. Concrete examples of use of media will be presented as case studies. One major theme, though not the only one, is that today's youth, influenced by video games and other emerging interactive media forms, are acquiring a fundamentally different attitude towards media. Media is, for them, not something to be consumed, but also to be created. This has broad consequences for how we design media, how the young are taught in schools, and how mass media markets will need to adjust.",
   "department_numbers": [
+    "CMS-W",
     "21G"
   ],
   "extra_course_numbers": "21G.034",
@@ -39,6 +41,8 @@
   "learning_resource_types": [
     "Lecture Videos"
   ],
-  "site_uid": "921577e1-bc50-4b5f-96b9-a27624a8824f",
+  "site_uid": "9907cec7-9fea-4206-a9b5-d51b07b53d19",
+  "site_short_id": "cms.930-fall-2001",
+  "site_url_path": "courses/cms-930-media-education-and-the-marketplace-fall-2001",
   "title": "Course Metadata"
 }
