@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides video lectures from the course.
 is_media_gallery: true
-learning_resource_types:
-- Lecture Videos
-ocw_type: CourseSection
+learning_resource_types: []
+ocw_type: ''
 title: Video Lectures
 uid: 898de8cf-f8f2-4b12-30d7-419ba4d710ab
 videos:
@@ -25,7 +25,7 @@ videos:
   website: cms-930-media-education-and-the-marketplace-fall-2001
 ---
 
-[Speaker Biographies]({{< baseurl >}}/video_galleries/video-lectures/biography)
+{{% resource_link 39779109-51d8-a3e8-4bec-7006f6bb5cad "Speaker Biographies" %}}
 
 {{< video-gallery "898de8cf-f8f2-4b12-30d7-419ba4d710ab" >}}
 

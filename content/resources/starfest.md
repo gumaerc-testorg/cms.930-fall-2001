@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: StarFestival CD Cover. (Courtesy of Prof. Shigeru Miyagwa.)
-file: /courses/cms-930-media-education-and-the-marketplace-fall-2001/6f3f79d1eae78269f51d6d3a549ac87b_starfest.gif
+file: /ol-ocw-studio-app/courses/cms-930-media-education-and-the-marketplace-fall-2001/6f3f79d1eae78269f51d6d3a549ac87b_starfest.gif
+file_size: 10564
 file_type: image/gif
 image_metadata:
   caption: ''
