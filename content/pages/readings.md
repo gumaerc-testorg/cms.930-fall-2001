@@ -12,7 +12,7 @@ Lecture #: [1 & 2](#sm) | [4](#bb)
 
 ## {{< anchor "sm" >}}{{< /anchor >}}Shigeru Miyagawa (Lecture #1 & 2: Personal Media and Starfestival) Reading List
 
-["Identities Blur for 'Third-Culture Kids,"](https://www.edweek.org/teaching-learning/identities-blur-for-third-culture-kids/2001/05) Ed. Week May 9, 2001.
+{{% resource_link "19bff1f2-6c06-4cb8-a784-d3eaa7237bc0" "\"Identities Blur for 'Third-Culture Kids,\"" %}} Ed. Week May 9, 2001.
 
 Third-culture kids are a growing legion of students who spent some or all of their childhood years in a country other than the place of their citizenship. They typically grow up with one foot in each culture, without ever feeling completely at home in either.
 
@@ -32,7 +32,7 @@ Katz, Jon. *Geeks: How Two Lost Boys Rode the Internet Out of Idaho*. New York, 
 
 Landow, George P. *Hypertext 2.0*. Baltimore, MD: The Johns Hopkins University Press.
 
-Miyagawa, Shigeru. [*StarFestival: a Return to Japan*](http://www.starfestival.com/). 2000.
+Miyagawa, Shigeru. {{% resource_link "ca6d3fd9-313b-4960-9465-a72e97fe3c6b" "*StarFestival: a Return to Japan*" %}}. 2000.
 
 Tapscott, Don. *Growing Up Digital: The Rise of the Net Generation*. New York, NY: McGraw Hill, 1997. ISBN: 9780070633612.
 
@@ -42,19 +42,19 @@ Wang, Qi. Paper on Barthes and StarFestival. 2000.
 
 ## Bonnie Bracey (Lecture #4: Media, Education, and Technology) Reading List
 
-"[Key Building Blocks for Student Achievement in the 21st Century](http://web.archive.org/web/20040328214212/http://caret.iste.org/index.cfm?fuseaction=studySummary&studyid=411)"
+"{{% resource_link "eca782c0-601b-4c3c-8c83-419fa6f3e441" "Key Building Blocks for Student Achievement in the 21st Century" %}}"
 
 Education technology can, and must, help students achieve the higher levels of education and skills required in the 21st century workplace, argues the CEO Forum in its latest education technology and readiness report. Recommendations include making the development of 21st century skills a key educational goal, aligning student assessment with education objectives, adopting continuous improvement strategies, increasing investment in research, development and dissemination, and ensuring equitable access to technology for all students.
 
-[Online Content for Low-Income and Underserved Americans: The Digital Divide's New Frontier](https://www.childrenspartnership.org/wp-content/uploads/2019/05/Online-Content-for-Low-Income-and-Underserved-Americans-An-Issue-Brief_March-2002.pdf)    
+{{% resource_link "e6ae6205-bf2d-4c30-aa1b-910a54f628df" "Online Content for Low-Income and Underserved Americans: The Digital Divide's New Frontier" %}}    
 Wendy Lazarus and Francisco Mora, The Children's Partnership, March 2000
 
 The World at Your Fingertips, Jan Hawkins    
-Look for this article in [The George Lucas Educational Foundation](http://www.glef.org/)
+Look for this article in {{% resource_link "fbb98347-a374-4b7f-a332-fef31eec49b9" "The George Lucas Educational Foundation" %}}
 
-[Technology and the New Professional Teacher: Preparing for the 21st Century Classroom](http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED412201)
+{{% resource_link "2910bd44-36da-47ce-ab7d-69f5c8ec969c" "Technology and the New Professional Teacher: Preparing for the 21st Century Classroom" %}}
 
-["Six challenges for educational technology (PDF)"](http://www.learningdomain.com/6_challenges.IT.pdf)    
+{{% resource_link "df01fd13-0c24-43b6-8879-9c62452e740b" "\"Six challenges for educational technology (PDF)\"" %}}    
 Dede, C. (in press). Six challenges for educational technology. An extended version of this draft paper will appear in the 1998 ASCD Yearbook.
 
-"Teaching in the Digital Age" [The George Lucas Educational Foundation](http://www.glef.org/)
+"Teaching in the Digital Age" {{% resource_link "fbb98347-a374-4b7f-a332-fef31eec49b9" "The George Lucas Educational Foundation" %}}
