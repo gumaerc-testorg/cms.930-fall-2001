@@ -95,7 +95,7 @@ Session 8: 
 Trials and tribulations of multimedia learning environments   
 Guest Speaker: John Belcher   
 Assignments:   
-1\. [Field Line Motion in Classical Electromagnetism](http://web.mit.edu/jbelcher/www/FieldLineMotion.html)
+1\. {{% resource_link "4c90abbf-8b00-4893-abd4-a58a6d5b1ee9" "Field Line Motion in Classical Electromagnetism" %}}
 
 Session 9: A New Model for e-Learning: MIT's OpenCourseWare   
 Guest Speaker: Anne Margulies, Executive Director, OCW   

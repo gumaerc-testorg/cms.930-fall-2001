@@ -18,13 +18,13 @@ uid: 39779109-51d8-a3e8-4bec-7006f6bb5cad
 
 ## {{< anchor "sm" >}}{{< /anchor >}}Shigeru Miyagawa
 
-Dr. Shigeru Miyagawa teaches linguistics and media/cultural courses at the Massachusetts Institute of Technology. He is Professor of Linguistics and holds the Chair, Kochi-Manjiro Professorship in Japanese Language and Culture. He is the Executive Producer of [StarFestival](http://www.starfestival.com/), a multimedia program about cultural identity. StarFestival is being used at MIT, and it has been adopted by the Boston Public Schools and Hawaii Public Schools. It has won numerous awards and recognitions, including a Distinguished Award from Multimedia Grandprix 2000 (Japan), Best of Show from MacWorld, and top-rate reviews by MacAddict magazine, International Society of Technology in Education, and Education about Asia. He is also the Founder of JP NET (["Japanese Network,"](http://web.mit.edu/jpnet)), a 20,000 web-page website on Japanese language and culture. For his work in media, MIT awarded him the Irwin Sizer Award, for the Most Significant Contribution to MIT Education. He is also the recipient of the prestigious International Cultural Award, from the Cultural Foundation For Promoting the National Costumes of Japan. His research in media has attracted over $3.5 million in support from the National Endowment for the Humanities, the Department of Defense, the U.S. Department of Education, Canon, Fuji-Xerox, and Fujitsu, among others. He has also consulted for a number of multinational corporations and also the Japanese government. At MIT, along with media- and culture-related courses, he teaches graduate courses in linguistics. His book, Structure and Case Marking in Japanese, is a standard textbook for graduate courses in Japanese linguistics world-wide. For his work in linguistics, he was awarded the National Individual Research Service Award from the National Institutes of Health. He is an Associate Editor of Language, and he serves on the editorial boards of Linguistic Inquiry, Syntax, Journal of East Asian Linguistics, and Journal of Japanese Linguistics. Prior to joining the MIT faculty in 1991, he was the Head of Department of East Asian Languages and Literatures at Ohio State University. He received his Ph.D. in linguistics from the University of Arizona in 1980, and his B.A. from the International Christian University in Tokyo in 1975.
+Dr. Shigeru Miyagawa teaches linguistics and media/cultural courses at the Massachusetts Institute of Technology. He is Professor of Linguistics and holds the Chair, Kochi-Manjiro Professorship in Japanese Language and Culture. He is the Executive Producer of {{% resource_link "ca6d3fd9-313b-4960-9465-a72e97fe3c6b" "StarFestival" %}}, a multimedia program about cultural identity. StarFestival is being used at MIT, and it has been adopted by the Boston Public Schools and Hawaii Public Schools. It has won numerous awards and recognitions, including a Distinguished Award from Multimedia Grandprix 2000 (Japan), Best of Show from MacWorld, and top-rate reviews by MacAddict magazine, International Society of Technology in Education, and Education about Asia. He is also the Founder of JP NET ({{% resource_link "47720d38-163d-4d52-8a10-3dbc9e1151c4" "\"Japanese Network,\"" %}}), a 20,000 web-page website on Japanese language and culture. For his work in media, MIT awarded him the Irwin Sizer Award, for the Most Significant Contribution to MIT Education. He is also the recipient of the prestigious International Cultural Award, from the Cultural Foundation For Promoting the National Costumes of Japan. His research in media has attracted over $3.5 million in support from the National Endowment for the Humanities, the Department of Defense, the U.S. Department of Education, Canon, Fuji-Xerox, and Fujitsu, among others. He has also consulted for a number of multinational corporations and also the Japanese government. At MIT, along with media- and culture-related courses, he teaches graduate courses in linguistics. His book, Structure and Case Marking in Japanese, is a standard textbook for graduate courses in Japanese linguistics world-wide. For his work in linguistics, he was awarded the National Individual Research Service Award from the National Institutes of Health. He is an Associate Editor of Language, and he serves on the editorial boards of Linguistic Inquiry, Syntax, Journal of East Asian Linguistics, and Journal of Japanese Linguistics. Prior to joining the MIT faculty in 1991, he was the Head of Department of East Asian Languages and Literatures at Ohio State University. He received his Ph.D. in linguistics from the University of Arizona in 1980, and his B.A. from the International Christian University in Tokyo in 1975.
 
 [TOP](#top)
 
 ## {{< anchor "rm" >}}{{< /anchor >}}Robert Metcalfe
 
-Dr. Robert M. ("Bob") Metcalfe is a venture capitalist at [Polaris Venture Partners](http://www.polarisventures.com/) in Waltham, Massachusetts.
+Dr. Robert M. ("Bob") Metcalfe is a venture capitalist at {{% resource_link "d0d18a62-f124-4c70-a561-f7162c7aaba6" "Polaris Venture Partners" %}} in Waltham, Massachusetts.
 
 Polaris partners are early-stage investors in information and medical technologies. Metcalfe specializes in Boston-based information technology start-ups.
 
@@ -60,37 +60,37 @@ A highlight of her career was to be appointed to the National Information Infras
 
 ### National Work
 
-[KickStart Initiative](http://headstart.in/initiative/kickstart):
+{{% resource_link "cb487792-a135-480b-bf02-34cdba6bacf5" "KickStart Initiative" %}}:
 
 Connecting America's Communities to the Information Superhighway helps community leaders launch KickStart Initiatives to bring their communities onto the Information Superhighway.
 
-[A Nation of Opportunity](http://www.benton.org/experts):
+{{% resource_link "c4399e74-a5c6-4430-a4c4-45733bc6d654" "A Nation of Opportunity" %}}:
 
 Realizing the Promise of the Information Superhighway sets forth the mandate and mission of the United States Advisory Council on the National Information Infrastructure.
 
 ### CyberEd
 
-Following the NII reports, she was selected to be a K-12 teacher representative on another White House Technology Initiative [CyberEdThere was established a resource for school, and community use which is this web page.](http://archive.ncsa.uiuc.edu/)
+Following the NII reports, she was selected to be a K-12 teacher representative on another White House Technology Initiative {{% resource_link "62159f60-597c-49a4-a8a0-8a2262e961df" "CyberEdThere was established a resource for school, and community use which is this web page." %}}
 
 ### NCATE
 
-[The National Council for Accreditation of Teacher Education](https://www.chea.org/national-council-accreditation-teacher-education) (NCATE) has released a report on technology that should drive change in NCATE’s accreditation standards and raise the bar for teacher candidate and faculty use of technology in schools of education. Bonnie was one of two K-12 teachers involved in crafting this report.
+{{% resource_link "1426b85a-0010-4be9-875a-23270eba4947" "The National Council for Accreditation of Teacher Education" %}} (NCATE) has released a report on technology that should drive change in NCATE’s accreditation standards and raise the bar for teacher candidate and faculty use of technology in schools of education. Bonnie was one of two K-12 teachers involved in crafting this report.
 
 ### Technology and the New Professional Teacher:
 
 Preparing for the 21st Century Classroom (1997)
 
-### [National Foundation for the Improvement of Education](http://www.nfie.org/), NEA
+### {{% resource_link "3fa9ecdf-8987-4453-aa01-d9b02286c767" "National Foundation for the Improvement of Education" %}}, NEA
 
 She is a teacher ambassador for this educational group.
 
 ### New NSDC Standards
 
-She was the teacher representative that helped to frame the new [NSDC standards](http://www.nsdc.org/standards/about/selfassessment.cfm).
+She was the teacher representative that helped to frame the new {{% resource_link "07e39215-948f-4082-b5b4-c0dc2fd2092f" "NSDC standards" %}}.
 
 National Staff Development Standards
 
-### [EOT-PACI](http://mvhs.shodor.org/ncsa/bground.html)
+### {{% resource_link "956b7528-3422-45b4-90ec-9cad44040e61" "EOT-PACI" %}}
 
 She continues to collaborate with the NCSA , learning in workshops and outreach the new uses of Next Generation Internet.
 
@@ -98,11 +98,11 @@ In addition to work on digital equity,she is collaborating and studying in the a
 
 ### Online Internet Institute
 
-Ms. Bracey co-founded the [Online Internet Institute](https://www.nsf.gov/awardsearch/showAward?AWD_ID=9554232), This project was funded by NSF.
+Ms. Bracey co-founded the {{% resource_link "ff392369-76be-4b89-98bf-80430c7995a2" "Online Internet Institute" %}}, This project was funded by NSF.
 
 ### CILT
 
-She is a working member of the digital diversity project at [CILT](http://cilt.concord.org/). This group has been funded to create projects on digital equity and to speak at conferences. . Further collaborating with [CILT](http://cilt.concord.org/) , on the Knowledge Network, and with [TERC](http://www.terc.edu/) in learning projects that outreach to teachers.
+She is a working member of the digital diversity project at {{% resource_link "9218bccd-f2b9-404d-b016-33c5b10323fe" "CILT" %}}. This group has been funded to create projects on digital equity and to speak at conferences. . Further collaborating with {{% resource_link "9218bccd-f2b9-404d-b016-33c5b10323fe" "CILT" %}} , on the Knowledge Network, and with {{% resource_link "36df63af-d711-45e4-870b-b598acb9cadd" "TERC" %}} in learning projects that outreach to teachers.
 
 ### Third World Summit for Children
 
@@ -150,18 +150,18 @@ She pioneered listserv projects with teachers, List Serv, and NII Teach ( Univer
 
 ### Articles
 
-[Educational Technology in the World Today](http://web.archive.org/web/20100613163121/http://www.newhorizons.org/strategies/technology/bracey.htm)
+{{% resource_link "4685dc1e-e174-4d0e-8e64-c651e8b84e64" "Educational Technology in the World Today" %}}
 
-(Edutopia) Digital Divide - [George Lucas Educational Foundation](http://www.glef.org/)
+(Edutopia) Digital Divide - {{% resource_link "fbb98347-a374-4b7f-a332-fef31eec49b9" "George Lucas Educational Foundation" %}}
 
-- [A Different Divide](http://eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ614619&ERICExtSearch_SearchType_0=no&accno=EJ614619)
-- [The Teacher as Learning Guide](http://eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ614619&ERICExtSearch_SearchType_0=no&accno=EJ614619)
+- {{% resource_link "fb8f3b71-07fe-4f89-b547-98607eea4064" "A Different Divide" %}}
+- {{% resource_link "fb8f3b71-07fe-4f89-b547-98607eea4064" "The Teacher as Learning Guide" %}}
 
-Educational CyberPlayGround RingLeader Bonnie Bracey provides ["Essays by Bonnie"](http://www.edu-cyberpg.com/Teachers/bbracey.html)
+Educational CyberPlayGround RingLeader Bonnie Bracey provides {{% resource_link "de676f82-c604-49cb-aae4-7a1016bf0297" "\"Essays by Bonnie\"" %}}
 
-[Bridging the Digital Divide](http://teachers.net/gazette/SEP00/bracey.html)
+{{% resource_link "15b65583-1588-45c5-90cf-90d964511ba6" "Bridging the Digital Divide" %}}
 
-[The Call to Action: Did You Hear It?](http://web.archive.org/web/20081007124726/http://www.middleweb.com/TechDefns.html)
+{{% resource_link "35ca8384-34e3-413c-bf2f-f72f379b627a" "The Call to Action: Did You Hear It?" %}}
 
 [TOP](#top)
 
